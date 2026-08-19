@@ -2,5 +2,13 @@ body{
     background: linear-gradient(to right, #0077b6, #9e2a2b);
 }
 h1{
-    color: #540b0e;
+    color: #a50104;
+}
+.NoticiasGenerales{
+    background-color: #f1faee;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 80%;
+    Display: flex;
 }
